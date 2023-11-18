@@ -54,6 +54,10 @@ h1, h2, h3 {
     padding: 10px;
     margin-bottom: 15px;
 }
+
+.project img{
+    width: 70vw;
+}
   
 .project h3 {
 margin-top: 0;
